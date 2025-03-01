@@ -16,6 +16,12 @@ h2 {
   color: green;
 }
 
+footer {
+  text-align:center;
+  color:brown;
+  font-size: 40px;
+}
+
 #randomNumber1 {
     background-color: lightgreen; 
     display: inline-block;
