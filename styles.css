@@ -13,7 +13,6 @@ h1{
 }
 
 h2 {
-  text-align: center;
   color: green;
 }
 
@@ -63,6 +62,17 @@ h2 {
         }
         
 #letter {
+  background-color: #e0ffff; 
+  padding: 10px;
+  width: 500px;
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  font-weight: bold;
+  font-size: 1.2em;
+  font-family: sans-serif;
+        }
+        
+#timeBreakdown {
   background-color: #e0ffff; 
   padding: 10px;
   width: 500px;
